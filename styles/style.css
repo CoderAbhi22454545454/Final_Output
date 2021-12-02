@@ -574,8 +574,9 @@ footer .footer-icons-2 {
 footer p span {
   font-size: 0.95rem;
 }
-footer p {
+footer .left-footer p {
   font-size: 0.95rem;
+  width: 44%;
 }
 footer h5 {
   margin: 1rem 0rem;
